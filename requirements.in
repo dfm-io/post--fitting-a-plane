@@ -1,0 +1,9 @@
+notebook
+jupyter
+ipykernel
+nbconvert
+numpy
+scipy
+matplotlib
+emcee
+corner
