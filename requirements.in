@@ -5,3 +5,5 @@ nbconvert
 numpy
 scipy
 matplotlib
+emcee
+corner
